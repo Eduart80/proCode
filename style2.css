@@ -2,6 +2,16 @@ body, html {
     margin: 0;
     padding: 0; 
 }
+.nav{
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+.nav a{
+    text-decoration: none;
+}
 .main{
     margin-top:100px;
 }
