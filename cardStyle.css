@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    width: 100px;
+}
+
+.container{
+    width:500px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    color: rgb(48, 48, 48);
+}
+.information{
+    text-align: center;
+}
+.blue_border{
+    border: 1px dotted blue;
+    border-bottom: 5px solid blue;
+}
