@@ -33,3 +33,20 @@ img{
     border: 1px dotted blue;
     border-bottom: 5px solid blue;
 }
+.entry_btn{
+    margin-top: 20px;
+}
+.entry_btn input{
+    width: 100%;
+    padding:10px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin-bottom: 4px;
+}
+.entry_btn button{
+    background-color:rgb(15, 183, 15);
+    color:white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
